@@ -1,1 +1,1 @@
-Creating a bracnch is quick.
+Creating a bracnch is quick & simple.
